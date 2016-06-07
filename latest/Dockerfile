@@ -4,4 +4,6 @@ RUN apt-get update && apt-get -y install \
     gcc-avr \
     avr-libc \
     binutils-avr \
-    make
+    make \
+    npm \
+    python-jinja2
