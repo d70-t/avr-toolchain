@@ -6,4 +6,5 @@ RUN apt-get update && apt-get -y install \
     binutils-avr \
     make \
     npm \
+    nodejs-legacy \
     python-jinja2
