@@ -7,4 +7,5 @@ RUN apt-get update && apt-get -y install \
     make \
     npm \
     nodejs-legacy \
-    python-jinja2
+    python-jinja2 \
+    imagemagick
